@@ -14,8 +14,7 @@ A simple chatbot built using **Python**, **Langchain**, and **Streamlit**, lever
 
 1. Clone the repository:
    ```sh
-   git clone [https://github.com/your-repo/chatgpt-replica.git](https://github.com/Shubhwithai/Chatgpt_Replica.git)
-   cd chatgpt-replica
+   git clone [https://github.com/your-repo/chatgpt-replica.git]
    ```
 
 2. Create a virtual environment (optional but recommended):

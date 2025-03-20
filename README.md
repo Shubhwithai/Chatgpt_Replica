@@ -46,7 +46,6 @@ A simple chatbot built using **Python**, **Langchain**, and **Streamlit**, lever
 
 ## Configuration
 - You need an OpenAI API key to use this chatbot.
-- The chatbot maintains a **3-message memory window** to enhance conversation continuity.
 
 ## Future Improvements
 - Add support for more LLMs (Llama, Claude, etc.)
